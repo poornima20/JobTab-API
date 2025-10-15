@@ -63,11 +63,10 @@
     "category": "saas"
   },
   {
-  "name": "Capgemini",
-  "role": "Global leader in consulting, technology services, and digital transformation.",
-  "url": "https://www.capgemini.com/in-en/careers/join-capgemini/job-search/?page=1&size=11&country_code=in-en&experience_level=Experienced+Professionals%2CStudents%2FGraduates&location=Bangalore",
-  "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwOTji0NdWhfR8kS_RyZUIxctERe-0VwIPUA&s",
-  "category": "service"
+    "name": "Capgemini",
+    "role": "Global leader in consulting, technology services, and digital transformation.",
+    "url": "https://www.capgemini.com/in-en/careers/join-capgemini/job-search/?page=1&size=11&country_code=in-en&experience_level=Experienced+Professionals%2CStudents%2FGraduates%E2%80%8B&location=Bangalore",
+    "logo": "https://iconlogovector.com/uploads/images/2024/10/lg-6716ee97b6197-Capgemini.webp",
+    "category": "service"
   }
-
 ]
