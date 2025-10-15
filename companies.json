@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Google",
+    "role": "Global tech giant innovating in software, AI, and cloud.",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/?location=Bangalore%2C%20India",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg",
+    "category": "top"
+  },
+  {
+    "name": "Microsoft",
+    "role": "Leading software company driving innovation in cloud and AI.",
+    "url": "https://jobs.careers.microsoft.com/global/en/search?lc=India&lc=Bangalore%2C%20Karnataka%2C%20India&l=en_us&pg=1&pgSz=20&o=Relevance&flt=true",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg",
+    "category": "top"
+  },
+  {
+    "name": "Amazon",
+    "role": "Global tech leader in e-commerce, cloud, and AI innovation.",
+    "url": "https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&category%5B%5D=software-development&city%5B%5D=Bengaluru&distanceType=Mi&radius=Anykm&latitude=12.96617&longitude=77.58692",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
+    "category": "top"
+  },
+  {
+    "name": "Meta",
+    "role": "Building social platforms and advancing virtual and augmented reality.",
+    "url": "https://www.metacareers.com/jobs?teams[0]=Software%20Engineering&offices[0]=Bangalore%2C%20India",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg",
+    "category": "top"
+  },
+  {
+    "name": "Postman",
+    "role": "API development platform simplifying collaboration and testing workflows.",
+    "url": "https://job-boards.greenhouse.io/postman/?offices%5B%5D=4015621003",
+    "logo": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png",
+    "category": "startup"
+  },
+  {
+    "name": "Stripe",
+    "role": "Global fintech powering online payments and business transactions.",
+    "url": "https://stripe.com/jobs/search?office_locations=Asia+Pacific--Bengaluru",
+    "logo": "https://cdn.freebiesupply.com/images/large/2x/stripe-logo-blue-purple-transparent.png",
+    "category": "fintech"
+  },
+  {
+    "name": "Cisco",
+    "role": "Global leader in networking, security, and IT solutions.",
+    "url": "https://jobs.cisco.com/jobs/SearchJobs/",
+    "logo": "https://www.citypng.com/public/uploads/preview/cisco-blue-logo-png-735811696610010utjhevbxcl.png",
+    "category": "top"
+  },
+  {
+    "name": "Uber",
+    "role": "A Global platform for on-demand rides and delivery.",
+    "url": "https://www.uber.com/in/en/careers/list/?location=IND-Karnataka-Bangalore",
+    "logo": "https://www.citypng.com/public/uploads/preview/uber-text-word-white-logo-png-701751694707221r0neubngm8.png",
+    "category": "top"
+  },
+  {
+    "name": "Atlassian",
+    "role": "A Global SaaS company building team collaboration tools.",
+    "url": "https://www.atlassian.com/company/careers/all-jobs?team=Engineering%2CGraduates%2CInterns&location=India&search=",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCFRI4-U9ZTChQrmwR0Mx8YAodKLb1XFiKiQ&s",
+    "category": "saas"
+  }
+]
