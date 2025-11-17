@@ -75,5 +75,12 @@
     "url": "https://careers.adobe.com/us/en/c/engineering-and-product-jobs",
     "logo": "https://1000logos.net/wp-content/uploads/2021/04/Adobe-logo.png",
     "category": "top"
+  },
+  {
+    "name": "NetApp",
+    "role": "NetApp delivers advanced data storage and cloud management solutions for enterprises.",
+    "url": "https://careers.netapp.com/search-jobs",
+    "logo": "https://w7.pngwing.com/pngs/1012/624/png-transparent-netapp-logo-horizontal-tech-companies.png",
+    "category": "automation"
   }
 ]
